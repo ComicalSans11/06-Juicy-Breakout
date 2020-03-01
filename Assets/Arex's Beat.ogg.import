@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Arex's Beat.ogg-23a35dd56f4047d5c659e980ffa09ec5.oggstr"
+
+[deps]
+
+source_file="res://Assets/Arex's Beat.ogg"
+dest_files=[ "res://.import/Arex's Beat.ogg-23a35dd56f4047d5c659e980ffa09ec5.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
